@@ -2,5 +2,5 @@ def add():
     pass
 def mul(k,n):
     pass
-def div():
+def div(khgbuki):
     pass
