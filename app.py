@@ -1,6 +1,6 @@
 def add():
     pass
-def mul():
+def mul(k):
     pass
 def div():
     pass
