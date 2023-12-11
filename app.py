@@ -1,6 +1,6 @@
 def add():
     pass
-def mul(k,n):
+def mul():
     pass
-def div(khgbuki):
+def div():
     pass
